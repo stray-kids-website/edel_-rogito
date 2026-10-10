@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  this si stray kids website feel free to explore
 
 <!--
 **stray-kids-website/stray-kids-website** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
